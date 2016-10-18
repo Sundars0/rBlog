@@ -20,7 +20,8 @@
           </td>
         </tr>
       <% end %>      
-    </table>    
+    </table>
+    <%= will_paginate @posts %>
   <% else %>
     <p>There are no Posts</p>
   <% end %>

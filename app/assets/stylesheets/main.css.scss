@@ -25,6 +25,7 @@ section{
 }
 .search-form input[type='text']{
   border-radius: 0; 
+  
 }
 .search-form .btn{
   border-radius: 0;
@@ -33,6 +34,11 @@ section{
 .search-form .form-control{
   background: #f4f4f4;
   border: 1px solid #eee;
+}
+.search-form .form-group{
+  display: inline-block;
+  margin-bottom: 0;
+  vertical-align: middle;
 }
 .btn {  
   border-color: #ff953f;
