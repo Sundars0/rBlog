@@ -30,6 +30,9 @@ gem 'autoprefixer-rails', '~> 6.4', '>= 6.4.0.2'
 gem 'mail_form'
 gem 'simple_form', '~> 3.3', '>= 3.3.1'
 gem 'will_paginate', '~> 3.1', '>= 3.1.5'
+gem 'paperclip', '~> 5.1'
+gem 'wysiwyg-rails', '~> 2.3', '>= 2.3.4'
+gem 'font-awesome-rails', '~> 4.6', '>= 4.6.3.1'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 

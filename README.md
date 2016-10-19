@@ -7,6 +7,10 @@ Addittional gems used:
 	mail form
 	autoprefixer-rails
 	bcrypt
+	will-paginate
+	paperclip
+	font-awesome
+	wysiwyg-rails
 
 The application has the following functions
 .Can create Posts with comments and categories.
