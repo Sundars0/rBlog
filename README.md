@@ -1,22 +1,22 @@
 # README
 
-A Sample Blogging site built using Ruby on rails(5.0.0.1)
-Addittional gems used:
-	Bootstrap Saas
-	simple form
-	mail form
-	autoprefixer-rails
-	bcrypt
-	will-paginate
-	paperclip
-	font-awesome
-	wysiwyg-rails
+<p>A Sample Blogging site built using Ruby on rails(5.0.0.1)</p>
+<p>Addittional gems used</p>
+	<p>Bootstrap Saas</p>
+	<p>simple form</p>
+	<p>mail form</p>
+	<p>autoprefixer-rails</p>
+	<p>bcrypt</p>
+	<p>will-paginate</p>
+	<p>paperclip</p>
+	<p>font-awesome</p>
+	<p>wysiwyg-rails</p>
 
-The application has the following functions
-.Can create Posts with comments and categories.
-.Custom user management
-.Login
-.Backend admin area with admin CRUD
-.RESTful routing
-.Search and pagination
-.File upload and editor fields
+<p>The application has the following functions</p>
+<p>.Can create Posts with comments and categories.</p>
+<p>.Custom user management</p>
+<p>.Login</p>
+<p>.Backend admin area with admin CRUD</p>
+<p>.RESTful routing</p>
+<p>.Search and pagination</p>
+<p>.File upload and editor fields</p>
